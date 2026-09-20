@@ -77,3 +77,7 @@ The analysis is split into five scripts, meant to be run in order:
 ## Project Files
 
 - [Executive summary workbook (.xlsx)](Proyecto%203_%20An%C3%A1lisis%20del%20desempe%C3%B1o%20financiero%20con%20SQL%20-%20Resumen%20ejecutivo%20%20(1).xlsx)
+
+  ## Author
+
+**Sebastian Ladino Novoa** — Data Analytics Portfolio
